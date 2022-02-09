@@ -1,8 +1,3 @@
-#Assignment 5 - Understanding Data
-#21827373 Uğurcan Erdoğan
-
-#################### You have to close the first window for the program to continue running ! ######################
-
 import matplotlib.pyplot as plt # 3.1.2    #Required libraries and versions.
 import numpy as np # 1.18.0
 import pandas as pd # 0.25.3
